@@ -1,0 +1,25 @@
+{
+  "name": "learnnodes10projects",
+  "version": "1.0.0",
+  "description": "\"this is the practise section\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravannk/nodejs10.git"
+  },
+  "author": "\"shravan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravannk/nodejs10/issues"
+  },
+  "homepage": "https://github.com/sravannk/nodejs10#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
